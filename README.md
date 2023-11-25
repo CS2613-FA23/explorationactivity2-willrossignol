@@ -1,2 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kCrKdl4V)
-# ExplorationActivity2
+# Exploration Activity 2 - PySide6
+
+## Instuctions to run application
+
+While in the root directory of the repository, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then, run the following commands:
+
+```bash
+cd MealSearcher
+python main.py
+```
+
+Note: Depending on your system, you may need to use `python3` and `pip3` instead of `python` and `pip` in the above command.
+
+## Resources
+
+[TheMealDB API](https://www.themealdb.com/api.php)
+[PySide6 Documentation](https://doc.qt.io/qtforpython-6/PySide6/QtWidgets/index.html#module-PySide6.QtWidgets)
+[Qt Style Sheets Examples](https://doc.qt.io/qt-6/stylesheet-examples.html)
